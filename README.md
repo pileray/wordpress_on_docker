@@ -1,5 +1,6 @@
 # wordpress_on_docker
 ## 要件
+- docker-composeを使用してwordpressの開発環境を構築する
 - wordpress:php7.4-apache, mysql:8
 - dev-wordpress.menta.meでwordpressが動かすことを確認する
   - ローカルのhostsファイルに127.0.0.1 dev-wordpress.menta.meを追加
